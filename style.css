@@ -1,15 +1,17 @@
 body {
     width: 960px;
     margin: auto;
-    background-image: url("images/background.jpg");
+    background-image: url("images/background.png");
+    font-family: "Trebuchet MS";
 }
 
 #title {
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
-    font-size: 26px;
+    font-size: 55px;
     color: white;
+    font-family: "Cloister Black";
 }
 
 img {
